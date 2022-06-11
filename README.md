@@ -8,7 +8,7 @@ Anggota :
 Pembagian Tugas :
 1. Muhammad Dzaki Ar-rahman : Menghosting data & fungsi "dikembalikan" data buku
 2. Edo Laksana Widodo : Membuat program SC & mengoneksikan sistem ke database
-3. Muhammda Zulfikar : Membuat fungsi Create & Read Data
+3. Muhammad Zulfikar : Membuat fungsi Create & Read Data
 
 
 Link Hosting App Web : http://uap-web.epizy.com/
