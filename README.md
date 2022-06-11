@@ -5,4 +5,7 @@ Anggota :
 2. Edo Laksana Widodo - 2017051028
 3. Muhammad Zulfikar - 2017051052
 
+Pembagian Tugas :
+
+
 Link Hosting App Web : http://uap-web.epizy.com/
